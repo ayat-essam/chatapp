@@ -1,0 +1,13 @@
+flutter_native_splash:
+
+  android_12:
+
+  image: assets/android12splash.png
+
+
+  color: "#42a5f5"
+
+
+
+  # The branding property allows you to specify an image used as branding in the splash screen.
+  branding: assets/dart.png
